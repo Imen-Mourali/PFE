@@ -1,1 +1,32 @@
-
+ item {
+     id: 1
+     name: ‘Autre’
+ }
+ item {
+     id: 2
+     name: ‘Egratignure de porte’
+ }
+ item {
+     id: 3
+     name: ‘Défaut au phare’
+ }
+ item {
+     id: 4
+     name: ‘Verre brisé’
+ }
+ item {
+     id: 5
+     name: ‘Défaut au feu arrière’
+ }
+ item {
+     id: 6
+     name: ‘Bosse de pare-chocs’
+ }
+ item {
+     id: 7
+     name: ‘Bosse de porte’
+ }
+ item {
+     id: 8
+     name: ‘Egratignure de pare-chocs’
+ }
